@@ -1,0 +1,7 @@
+yarn run v1.19.0
+$ C:\Users\Lucas\Desktop\bootcamp19\modulo02\node_modules\.bin\sequelize migration:create --name
+
+[4mSequelize CLI [Node: 10.16.3, CLI: 5.5.1, ORM: 5.21.4][24m
+
+migrations folder at "C:\Users\Lucas\Desktop\bootcamp19\modulo02\src\config\database.js" already exists.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
